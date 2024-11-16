@@ -1,24 +1,25 @@
 ![logo](assets/logo.png)
-{{ $values := (datasource "values") }}
-# {{ $values.general.ctf.name }}
-{{- range $values.general.ctf.urls }}
-- {{ . }}
-{{- end }}
+
+# CrateCTF-2025
+- https://ctf.crate.foi.se
 
 ## Description
-*{{ $values.general.ctf.description }}*
+**
 
 
 # Results
-**Username:** {{ .Env.CTF_USERNAME }}
+**Username:** arch-err
 
-**Team:** {{ .Env.CTF_TEAM }}
+**Team:** HERE BE DRAGONS
 
 
-**Flags:** (0/X)
+**Flags:** (0/3)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
 
 
 # Challenges
+- [ ] [KaKlickare](challenges/KaKlickare)
+- [ ] [Golf-SM](challenges/Golf-SM)
+- [ ] [Protokollkoll](challenges/Protokollkoll)

@@ -1,9 +1,12 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: CrateCTF-2025
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://ctf.crate.foi.se
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/CrateCTF-2025.git
+challenges:
+  - name: KaKlickare
+  - name: Golf-SM
+  - name: Protokollkoll
