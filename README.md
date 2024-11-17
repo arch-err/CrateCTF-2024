@@ -1,6 +1,6 @@
 ![logo](assets/logo.png)
 
-# CrateCTF-2025
+# CrateCTF-2024
 - https://ctf.crate.foi.se
 
 ## Description
@@ -21,7 +21,6 @@
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
-![ ](assets/solves.png)
 
 
 # Challenges
@@ -69,3 +68,6 @@
 - [ ] [Fillagringstjänst](challenges/Fillagringstjänst)
 - [ ] [Robotfilter](challenges/Robotfilter)
 - [ ] [Sök](challenges/Sök)
+
+
+![ ](assets/solves.png)

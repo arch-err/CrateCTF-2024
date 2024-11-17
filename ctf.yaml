@@ -1,11 +1,11 @@
 general:
   ctf:
-    name: CrateCTF-2025
-    description: ""
+    name: CrateCTF-2024
+    description: "CrateCTF-2024 by FOI"
     urls:
       - https://ctf.crate.foi.se
     repo:
-      URL: git@github.com:arch-err/CrateCTF-2025.git
+      URL: git@github.com:arch-err/CrateCTF-2024.git
 challenges:
   - name: KaKlickare
   - name: Golf-SM
