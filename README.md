@@ -8,6 +8,8 @@
 
 *I samband med eventet kommer det anordnas en livestream med allt från detaljer kring poängställningen till spelutmaningar och bygge av retrodatorer. Var med, ställ en fråga eller två, eller bara lyssna på [https://www.youtube.com/live/edTmaN4lILw](https://www.youtube.com/live/edTmaN4lILw).
 
+# Facit
+[FACIT.md](FACIT.md)
 
 # Results
 **Username:** arch-err
@@ -19,6 +21,7 @@
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
+![ ](assets/solves.png)
 
 
 # Challenges
