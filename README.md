@@ -17,7 +17,7 @@
 **Team:** HERE BE DRAGONS
 
 
-**Flags:** (5/30)
+**Flags:** (6/30)
 
 ![ ](assets/top50.png)
 ![ ](assets/team-score.png)
@@ -63,7 +63,7 @@
 - [ ] [Intern_2](challenges/Intern_2)
 
 ## Webb
-- [ ] [XML-kontroll](challenges/XML-kontroll)
+- [x] [XML-kontroll](challenges/XML-kontroll)
 - [x] [KaKlickare](challenges/KaKlickare)
 - [x] [Fillagringstjänst](challenges/Fillagringstjänst)
 - [x] [Robotfilter](challenges/Robotfilter)
