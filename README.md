@@ -17,7 +17,7 @@
 **Team:** HERE BE DRAGONS
 
 
-**Flags:** (4/30)
+**Flags:** (5/30)
 
 ![ ](assets/top50.png)
 ![ ](assets/team-score.png)
@@ -52,7 +52,7 @@
 - [ ] [Kassaskåpet_2_-_Bättre_tur_än_skicklighet](challenges/Kassaskåpet_2_-_Bättre_tur_än_skicklighet)
 
 ## Övriga
-- [ ] [Hönan_och_Ägget](challenges/Hönan_och_Ägget)
+- [x] [Hönan_och_Ägget](challenges/Hönan_och_Ägget)
 - [ ] [Buggigt](challenges/Buggigt)
 - [ ] [NeovIM](challenges/NeovIM)
 - [ ] [Kassaskåpet_1_-_Den_Berömda_Bosse](challenges/Kassaskåpet_1_-_Den_Berömda_Bosse)

@@ -4,10 +4,9 @@
 [https://challs.crate.nu:50003/](https://challs.crate.nu:50003/)
 
 ## Solution
-1. <++>
-2. `<++>`
-3. `./solve.sh`
+1. Be Gemini om kod för att inkludera filer i C...
+2. Ladda upp kod, få flagga...
 
 
 ## Flag
-**Flag:** `<++>`
+**Flag:** `cratectf{HenMakesEggEggMakesHenHenMakesEgg}`
