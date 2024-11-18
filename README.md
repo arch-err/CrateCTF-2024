@@ -17,7 +17,7 @@
 **Team:** HERE BE DRAGONS
 
 
-**Flags:** (2/30)
+**Flags:** (3/30)
 
 ![ ](assets/top50.png)
 ![ ](assets/team-score.png)
@@ -34,7 +34,7 @@
 
 ## Forensik
 - [ ] [Långtidsminne](challenges/Långtidsminne)
-- [ ] [Red_teaming](challenges/Red_teaming)
+- [x] [Red_teaming](challenges/Red_teaming)
 - [ ] [Protokollkoll](challenges/Protokollkoll)
 - [ ] [Stulen_Konst](challenges/Stulen_Konst)
 
