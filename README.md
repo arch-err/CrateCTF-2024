@@ -19,7 +19,7 @@
 
 **Flags:** (1/33)
 
-![ ](assets/scoreboard.png)
+![ ](assets/top50.png)
 ![ ](assets/team-score.png)
 
 
