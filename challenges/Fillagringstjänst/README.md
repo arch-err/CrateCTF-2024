@@ -6,10 +6,8 @@
 [http://challs.crate.nu:2580](http://challs.crate.nu:2580)
 
 ## Solution
-1. <++>
-2. `<++>`
-3. `./solve.sh`
+1. `./solve.sh`
 
 
 ## Flag
-**Flag:** `<++>`
+**Flag:** `cratectf{mamma_sa_att_det_är_taskigt_att_hacka_och_jag_tror_att_du_nyss_gjorde_det}`
