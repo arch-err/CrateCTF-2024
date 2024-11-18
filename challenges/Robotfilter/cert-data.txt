@@ -1,0 +1,172 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            03:22:2e:ac:90:d7:65:66:16:44:54:66:31:ea:be:41:39:98
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: (CA ID: 295810)
+            commonName                = E5
+            organizationName          = Let's Encrypt
+            countryName               = US
+        Validity
+            Not Before: Nov  2 11:07:32 2024 GMT
+            Not After : Jan 31 11:07:31 2025 GMT
+        Subject:
+            commonName                = robotfilter.challs.crate.nu
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:30:9c:b3:ba:9c:57:ce:9f:f0:30:bd:83:1b:77:
+                    f9:6f:5a:e7:5e:98:ac:84:1e:a4:a8:26:30:4c:26:
+                    d0:62:8c:d0:d4:b0:0e:8f:ae:f6:67:4e:c6:65:f7:
+                    7d:d6:fb:51:76:d7:b5:21:44:f3:c3:1e:98:28:d9:
+                    42:ed:a9:c7:e6
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage:
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier:
+                D1:30:92:5F:1E:7C:54:B9:08:A0:90:94:44:A3:93:8A:4F:C6:0D:CA
+            X509v3 Authority Key Identifier:
+                keyid:9F:2B:5F:CF:3C:21:4F:9D:04:B7:ED:2B:2C:C4:C6:70:8B:D2:D7:0D
+
+            Authority Information Access:
+                OCSP - URI:http://e5.o.lencr.org
+                CA Issuers - URI:http://e5.i.lencr.org/
+
+            X509v3 Subject Alternative Name:
+                DNS:flag-wklvjizhjrlfdtwvqktj.robotfilter.challs.crate.nu
+                DNS:level1-gfpmkgfxkzztsqynbvnh.robotfilter.challs.crate.nu
+                DNS:level10-gwthpzcssqidmcgevjwj.robotfilter.challs.crate.nu
+                DNS:level11-ljeujpcevvewevarwlnf.robotfilter.challs.crate.nu
+                DNS:level12-oazjmoirjljgutgodriy.robotfilter.challs.crate.nu
+                DNS:level13-zfhactmxrvaytigdxrce.robotfilter.challs.crate.nu
+                DNS:level14-covtkcpmjoznujdyixel.robotfilter.challs.crate.nu
+                DNS:level15-bzjudfzfwqxfkeutahpl.robotfilter.challs.crate.nu
+                DNS:level16-keexutnuwrgbwcpfftoq.robotfilter.challs.crate.nu
+                DNS:level17-qpvhakbyyfhrvjgjdsgz.robotfilter.challs.crate.nu
+                DNS:level18-chwbbokpuubcfvfdfenc.robotfilter.challs.crate.nu
+                DNS:level19-pfkhqnhhekxpnahjgnzl.robotfilter.challs.crate.nu
+                DNS:level2-bfbbmaauwdhlrwllayhf.robotfilter.challs.crate.nu
+                DNS:level20-sftbpzvtadoeufecybtu.robotfilter.challs.crate.nu
+                DNS:level21-efehtkapnchbaqejdnhx.robotfilter.challs.crate.nu
+                DNS:level22-beslnnupvfhxgkhfzlcy.robotfilter.challs.crate.nu
+                DNS:level23-rrfjhczsyyjrwihymisv.robotfilter.challs.crate.nu
+                DNS:level24-patatstipuywrdqvghxt.robotfilter.challs.crate.nu
+                DNS:level25-onfqmzxonvellmumwddi.robotfilter.challs.crate.nu
+                DNS:level26-axflvmmgpuaauyeakmrt.robotfilter.challs.crate.nu
+                DNS:level27-nzzyzjcyrevahwlmivjo.robotfilter.challs.crate.nu
+                DNS:level28-jsvlleeovdxihrjdyzil.robotfilter.challs.crate.nu
+                DNS:level29-jaxclwzjeilybudgrxbw.robotfilter.challs.crate.nu
+                DNS:level3-emlwjkqghslbvdbvuxmy.robotfilter.challs.crate.nu
+                DNS:level30-khbkdekqxiasmlhsugvv.robotfilter.challs.crate.nu
+                DNS:level31-dviuxrapagoklqvudbjz.robotfilter.challs.crate.nu
+                DNS:level32-uackqmlvlupbnyynyief.robotfilter.challs.crate.nu
+                DNS:level33-bqctjhqrwfhhynppkhoy.robotfilter.challs.crate.nu
+                DNS:level34-grefdirmibouskoulvwh.robotfilter.challs.crate.nu
+                DNS:level35-xsulujntrawawckzdyml.robotfilter.challs.crate.nu
+                DNS:level36-kuujdtjhqhasyasczpio.robotfilter.challs.crate.nu
+                DNS:level37-ewvndjylckzqfuhkwigg.robotfilter.challs.crate.nu
+                DNS:level38-holxokdhwfelniqoneil.robotfilter.challs.crate.nu
+                DNS:level39-hjmxrwtuxepbrfqfvuxq.robotfilter.challs.crate.nu
+                DNS:level4-lrjophegxawpdaxatrgp.robotfilter.challs.crate.nu
+                DNS:level40-wvlmasynhoumzwiqdjvs.robotfilter.challs.crate.nu
+                DNS:level41-wjdibpqgvlsjtkynkynr.robotfilter.challs.crate.nu
+                DNS:level42-pvbdqupalcgegllawrxy.robotfilter.challs.crate.nu
+                DNS:level43-hjgxoeoeudioyuevbrnc.robotfilter.challs.crate.nu
+                DNS:level44-wpuqqllwdlgbwisteamf.robotfilter.challs.crate.nu
+                DNS:level45-mdaqlfjutmgzrxshhuaa.robotfilter.challs.crate.nu
+                DNS:level46-dixdtnozmnmnkllufiht.robotfilter.challs.crate.nu
+                DNS:level47-yxpvuwnzqfyqrssmmjfg.robotfilter.challs.crate.nu
+                DNS:level48-ssoaluozvoeqogknxpqa.robotfilter.challs.crate.nu
+                DNS:level49-qokkjcfxjozsqubodrsr.robotfilter.challs.crate.nu
+                DNS:level5-uqpomdjrflxwzijasyti.robotfilter.challs.crate.nu
+                DNS:level50-idtmymfkjjtdihdardnw.robotfilter.challs.crate.nu
+                DNS:level51-jijqumpdsysctdkkndxj.robotfilter.challs.crate.nu
+                DNS:level52-jrcghdryperkfbesxowo.robotfilter.challs.crate.nu
+                DNS:level53-chcedzfaldbdwrghbdom.robotfilter.challs.crate.nu
+                DNS:level54-hpxfivlxmifrcxoithqx.robotfilter.challs.crate.nu
+                DNS:level55-vevomlbsbygpsioqzbkt.robotfilter.challs.crate.nu
+                DNS:level56-fcwaraiqyqzrzklsweki.robotfilter.challs.crate.nu
+                DNS:level57-epvektbyydjcnsijbtty.robotfilter.challs.crate.nu
+                DNS:level58-ookgfebevkdifzzfbbmu.robotfilter.challs.crate.nu
+                DNS:level59-urzzwruqifynyxpmeprr.robotfilter.challs.crate.nu
+                DNS:level6-gxqcxbpyvkjgjtgxnhzt.robotfilter.challs.crate.nu
+                DNS:level60-wgpbxkrorwlrifwiarpy.robotfilter.challs.crate.nu
+                DNS:level61-seuczvsgvxrypfcgivso.robotfilter.challs.crate.nu
+                DNS:level62-vnfzvfkecjbtylacuowg.robotfilter.challs.crate.nu
+                DNS:level63-hwwibuymmhwmpxbkhvtf.robotfilter.challs.crate.nu
+                DNS:level64-wxmzsnefnkdiykpjckll.robotfilter.challs.crate.nu
+                DNS:level65-xcvyrwqahcvszzisyhfy.robotfilter.challs.crate.nu
+                DNS:level66-ftcwqwmpsofsdfruwwje.robotfilter.challs.crate.nu
+                DNS:level67-nrybvmvpszptxduvmgwm.robotfilter.challs.crate.nu
+                DNS:level68-fiqglfpzjjmfgfdokqvm.robotfilter.challs.crate.nu
+                DNS:level69-iraudhxuwnguqlrmjkpc.robotfilter.challs.crate.nu
+                DNS:level7-wmujlpymllhfamfhywid.robotfilter.challs.crate.nu
+                DNS:level70-fydxtfhgrxnmqpqlbwcl.robotfilter.challs.crate.nu
+                DNS:level71-bbaxkeqduxeweedofqhx.robotfilter.challs.crate.nu
+                DNS:level72-bmwomgqfsofhozstrfjw.robotfilter.challs.crate.nu
+                DNS:level73-thzuxyskflyrsnzlogal.robotfilter.challs.crate.nu
+                DNS:level74-ikuyqvwcupivittlcywj.robotfilter.challs.crate.nu
+                DNS:level75-sgkewkperrzepauqqnrl.robotfilter.challs.crate.nu
+                DNS:level76-kouctwaywpslenivotxy.robotfilter.challs.crate.nu
+                DNS:level77-mjgkccztwtcrkrvsrxoc.robotfilter.challs.crate.nu
+                DNS:level78-jubrtqnrapidzgadhfuc.robotfilter.challs.crate.nu
+                DNS:level79-xbzphnuhfpjqqtqpnwbi.robotfilter.challs.crate.nu
+                DNS:level8-mqbfnxvnpbpvhmtycbrz.robotfilter.challs.crate.nu
+                DNS:level80-swjqddjpzdyeezaxvjwy.robotfilter.challs.crate.nu
+                DNS:level81-ugjlpgjlzdvtbmcrpgmw.robotfilter.challs.crate.nu
+                DNS:level82-czdiznqnlmmtxabinohk.robotfilter.challs.crate.nu
+                DNS:level83-dgbzqoljvdcsrbhuqkba.robotfilter.challs.crate.nu
+                DNS:level84-uvuoxghpapqrpjolxjna.robotfilter.challs.crate.nu
+                DNS:level85-vjulnqkebklpohyigafd.robotfilter.challs.crate.nu
+                DNS:level86-rrtsqqvifklsdvrjcorg.robotfilter.challs.crate.nu
+                DNS:level87-njitwpxegxzaweauvwyt.robotfilter.challs.crate.nu
+                DNS:level88-yukcxbhbqjjciqweomee.robotfilter.challs.crate.nu
+                DNS:level89-nmzmlgfwcoscrrokaqqw.robotfilter.challs.crate.nu
+                DNS:level9-vzlglqujwagmwtzkhxvr.robotfilter.challs.crate.nu
+                DNS:level90-kvvsjuqtmpqhfebewvut.robotfilter.challs.crate.nu
+                DNS:robotfilter.challs.crate.nu
+            X509v3 Certificate Policies:
+                Policy: 2.23.140.1.2.1
+
+            CT Precertificate SCTs:
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log Name  : Let's Encrypt Oak 2025h1
+                    Log ID    : A2:E3:0A:E4:45:EF:BD:AD:9B:7E:38:ED:47:67:77:53:
+                                D7:82:5B:84:94:D7:2B:5E:1B:2C:C4:B9:50:A4:47:E7
+                    Timestamp : Nov  2 12:06:02.886 2024 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:B0:6D:64:7A:79:E4:69:67:30:31:55:
+                                4F:33:D5:87:62:67:43:FE:F1:E7:A2:39:00:4F:0F:7A:
+                                0F:11:AF:29:10:02:21:00:D8:C3:61:AE:D7:BC:0E:38:
+                                F2:3E:DB:ED:4F:F3:D5:1B:44:D6:B8:95:1F:08:4E:FA:
+                                33:6C:02:78:A6:3A:9F:04
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log Name  : Google Xenon 2025h1
+                    Log ID    : CF:11:56:EE:D5:2E:7C:AF:F3:87:5B:D9:69:2E:9B:E9:
+                                1A:71:67:4A:B0:17:EC:AC:01:D2:5B:77:CE:CC:3B:08
+                    Timestamp : Nov  2 12:06:02.939 2024 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:2D:76:D3:74:24:B8:45:3F:13:B8:02:A2:
+                                78:21:66:2F:F9:C0:10:A9:33:15:7F:56:5E:DF:2C:87:
+                                0A:4F:B8:47:02:20:13:47:B4:53:77:E8:66:BA:5B:08:
+                                52:D8:F2:C6:55:FF:E2:35:91:55:CB:C7:1A:B3:A8:DB:
+                                3C:42:8A:C7:21:C6
+    Signature Algorithm: ecdsa-with-SHA384
+         30:64:02:30:49:88:43:5d:27:f8:8d:a9:85:ae:cb:5f:ff:dd:
+         15:39:c5:14:27:58:f0:f0:da:74:2a:2e:6a:5f:ad:69:a1:1f:
+         54:28:42:4d:5c:51:7b:7c:8e:3c:0e:63:e0:95:3c:07:02:30:
+         6a:fe:76:c8:83:9e:26:02:2f:0e:2e:b5:39:ff:d2:48:8a:d1:
+         06:a9:08:5c:bb:1a:96:51:16:78:39:26:b7:a5:87:a8:a4:df:
+         bd:d3:56:c5:fb:35:f6:28:c6:d8:99:d5
